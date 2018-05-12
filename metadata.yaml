@@ -1,0 +1,29 @@
+_repo: Text-Book-of-Biology-Part-1--Vertebrata_21781
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2007-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21781'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biology -- Textbooks'
+- !lcc 'QH301'
+title: 'Text Book of Biology, Part 1: Vertebrata'
+url: http://www.gutenberg.org/ebooks/21781
